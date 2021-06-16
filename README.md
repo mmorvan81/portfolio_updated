@@ -6,4 +6,4 @@ Photography image clicks to a 2nd pdf page.
 
 Email address is linked. 
 
-!["image"](./assets/images/test.png)
+https://mmorvan81.github.io/portfolio_updated/
